@@ -1,7 +1,9 @@
 In case pdf doesn't work,
 
 Daniel Lung DS210 12/15/23
+
 Final Project Write-Up
+
 I originally proposed to work on a dataset of the top 20 movies released annually from 1989 to 2014, but I changed it to a dataset containing information about books, ordered by 
 sales rank. The steps I will take are no different from the steps I initially proposed for my original dataset. My code is split into 2 modules and 1 main file. All it takes to 
 run is the dataset in the same folder as the directory and “cargo run”. It outputs several things to check if the file is properly read and handled, such as the first entry of the 
